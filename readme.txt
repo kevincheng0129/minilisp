@@ -1,6 +1,6 @@
-環境: ubuntu 
+Enviroment: ubuntu 
 
-功能: 
+Function: 
 1. Syntax Validation
 2. Print 
 3. Numerical Operations
